@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Classes and Objects", "Classes and Objects", "{77A0C9DB-6B45-4A23-99B5-E6FA0F588789}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extra Task", "Extra Task\Extra Task.csproj", "{A5093DEE-BE25-4373-AE33-299D8994E852}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extra Task", "Classes and Objects\Extra Task\Extra Task.csproj", "{99BF485B-BA2F-4E61-9B4F-EFD1EDA3A519}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A5093DEE-BE25-4373-AE33-299D8994E852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A5093DEE-BE25-4373-AE33-299D8994E852}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A5093DEE-BE25-4373-AE33-299D8994E852}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A5093DEE-BE25-4373-AE33-299D8994E852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99BF485B-BA2F-4E61-9B4F-EFD1EDA3A519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99BF485B-BA2F-4E61-9B4F-EFD1EDA3A519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99BF485B-BA2F-4E61-9B4F-EFD1EDA3A519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99BF485B-BA2F-4E61-9B4F-EFD1EDA3A519}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{A5093DEE-BE25-4373-AE33-299D8994E852} = {77A0C9DB-6B45-4A23-99B5-E6FA0F588789}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {740119B1-5C69-4B7C-A525-73851F1666C4}

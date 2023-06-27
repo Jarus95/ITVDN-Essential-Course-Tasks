@@ -7,7 +7,7 @@
     <ProjectGuid>{99BF485B-BA2F-4E61-9B4F-EFD1EDA3A519}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Extra_Task</RootNamespace>
-    <AssemblyName>Extra_Task</AssemblyName>
+    <AssemblyName>Extra Task</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
