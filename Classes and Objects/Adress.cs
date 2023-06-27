@@ -95,8 +95,8 @@ namespace Extra_Task
 
         public override string ToString()
         {
-            return "Index:" + index + " Country:" + country+ " City:" + city + " Sreet:" + street+ " House:" + house +" Appartment:" + apartment;
-     
+            return "Index:" + index + " Country:" + country + " City:" + city + " Sreet:" + street + " House:" + house + " Appartment:" + apartment;
+
         }
     }
 }
