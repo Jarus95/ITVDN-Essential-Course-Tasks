@@ -10,6 +10,18 @@ namespace Extra_Task
     {
         static void Main(string[] args)
         {
+            Adress address = new Adress
+            {
+                Index = 0,
+                Country = "Uzbekistan",
+                City = "Tashkent",
+                Street = "Center  Street",
+                House = "12 House",
+                Appartment = "22 Appartment"
+            };
+
+            Console.WriteLine(address);
+            Console.ReadKey();
         }
     }
 }
