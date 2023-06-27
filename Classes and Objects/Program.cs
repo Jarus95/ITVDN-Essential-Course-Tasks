@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ITVDN_Essential_Course_Tasks
+namespace Classes_and_Objects
 {
     internal class Program
     {
