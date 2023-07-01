@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOP2_Extra_Task
+namespace OOP_2_Extra_Task
 {
     internal class Program
     {
