@@ -7,7 +7,7 @@
     <ProjectGuid>{323DCA41-3116-4DC5-ABDA-17BCA988BC9F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>OOP2__Task1</RootNamespace>
-    <AssemblyName>OOP2__Task1</AssemblyName>
+    <AssemblyName>OOP2_ Task1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

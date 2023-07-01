@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OOP_2_Extra_Task
 {
@@ -10,6 +6,15 @@ namespace OOP_2_Extra_Task
     {
         static void Main(string[] args)
         {
+            User newUser = new User(
+               login: "Jasur99",
+               name: "Jasur",
+               lastName: "Sulaymonov",
+               age: 28,
+               date: DateTimeOffset.Now);
+
+            Console.WriteLine(newUser);
+            Console.ReadKey();
         }
     }
 }
