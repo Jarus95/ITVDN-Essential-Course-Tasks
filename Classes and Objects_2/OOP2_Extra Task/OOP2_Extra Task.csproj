@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D125844E-5EE6-4191-A357-CA814B9B82BA}</ProjectGuid>
+    <ProjectGuid>{2A3E9D1F-CB02-4724-AF88-0105BA8ACA8B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_2_Extra_Task</RootNamespace>
-    <AssemblyName>2_Extra Task</AssemblyName>
+    <RootNamespace>OOP2_Extra_Task</RootNamespace>
+    <AssemblyName>OOP2_Extra_Task</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
