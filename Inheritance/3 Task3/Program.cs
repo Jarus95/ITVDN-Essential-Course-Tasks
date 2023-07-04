@@ -16,16 +16,11 @@ namespace _3_Task3
             document.EditDocument();
             document.SaveDocument();
             Console.WriteLine(new string('-', 50));
-            var prodDocument = document.AcivateProduct("123");
+            Console.Write("Введите ключ: ");
+            var prodDocument = document.AcivateProduct(Console.ReadLine());
             prodDocument.OpenDocument();
             prodDocument.EditDocument();
             prodDocument.SaveDocument();
-
-            Console.WriteLine(new string('-', 50));
-            var expertDocument = document.AcivateProduct("1234");
-            expertDocument.OpenDocument();
-            expertDocument.EditDocument();
-            expertDocument.SaveDocument();
             Console.ReadKey();
         }
     }
