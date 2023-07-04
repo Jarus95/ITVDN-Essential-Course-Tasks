@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_2 Extra Task", "Classes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2_ Task1", "Classes and Objects_2\OOP2_ Task1\OOP2_ Task1.csproj", "{323DCA41-3116-4DC5-ABDA-17BCA988BC9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 Extra Task", "Inheritance\3 Extra Task\3 Extra Task.csproj", "{666EBFCA-1C07-4AB8-970B-DCAEBCB7F854}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{323DCA41-3116-4DC5-ABDA-17BCA988BC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{323DCA41-3116-4DC5-ABDA-17BCA988BC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{323DCA41-3116-4DC5-ABDA-17BCA988BC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{666EBFCA-1C07-4AB8-970B-DCAEBCB7F854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666EBFCA-1C07-4AB8-970B-DCAEBCB7F854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666EBFCA-1C07-4AB8-970B-DCAEBCB7F854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666EBFCA-1C07-4AB8-970B-DCAEBCB7F854}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

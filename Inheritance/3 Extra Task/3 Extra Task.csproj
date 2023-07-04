@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{323DCA41-3116-4DC5-ABDA-17BCA988BC9F}</ProjectGuid>
+    <ProjectGuid>{666EBFCA-1C07-4AB8-970B-DCAEBCB7F854}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OOP2__Task1</RootNamespace>
-    <AssemblyName>OOP2_ Task1</AssemblyName>
+    <RootNamespace>_3_Extra_Task</RootNamespace>
+    <AssemblyName>3 Extra Task</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Converter.cs" />
+    <Compile Include="DerivedClass.cs" />
+    <Compile Include="Printer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
