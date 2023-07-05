@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 Task3", "Inheritance\3 Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 Task1", "Abstract class Interface\4 Task1\4 Task1.csproj", "{3FFDB5BA-2888-4EF2-8CB4-64515EBEA17F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 Task2", "Abstract class Interface\4 Task2\4 Task2.csproj", "{09D13DB5-3DE8-4A7F-9739-C718E1A57488}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{3FFDB5BA-2888-4EF2-8CB4-64515EBEA17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FFDB5BA-2888-4EF2-8CB4-64515EBEA17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FFDB5BA-2888-4EF2-8CB4-64515EBEA17F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09D13DB5-3DE8-4A7F-9739-C718E1A57488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D13DB5-3DE8-4A7F-9739-C718E1A57488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D13DB5-3DE8-4A7F-9739-C718E1A57488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D13DB5-3DE8-4A7F-9739-C718E1A57488}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
