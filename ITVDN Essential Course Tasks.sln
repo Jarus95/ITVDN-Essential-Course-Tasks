@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 Task1", "Abstract class I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 Task2", "Abstract class Interface\4 Task2\4 Task2.csproj", "{09D13DB5-3DE8-4A7F-9739-C718E1A57488}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5 Extra Task", "Array and Indexer\5 Extra Task\5 Extra Task.csproj", "{8948E122-CFFC-4A83-9EB7-16F77A66395C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{09D13DB5-3DE8-4A7F-9739-C718E1A57488}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09D13DB5-3DE8-4A7F-9739-C718E1A57488}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09D13DB5-3DE8-4A7F-9739-C718E1A57488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8948E122-CFFC-4A83-9EB7-16F77A66395C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8948E122-CFFC-4A83-9EB7-16F77A66395C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8948E122-CFFC-4A83-9EB7-16F77A66395C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8948E122-CFFC-4A83-9EB7-16F77A66395C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
