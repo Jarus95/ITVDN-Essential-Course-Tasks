@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6 Extra Task", "StaticClass
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6 Task1", "StaticClasses\6 Task1\6 Task1.csproj", "{4D175798-1E6B-436D-8C7E-13714A6B72CB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6 Task3 Extension Method", "StaticClasses\6 Task3 Extension Method\6 Task3 Extension Method.csproj", "{33DC35C6-7F16-4E3B-96D2-A5B57369D45E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{4D175798-1E6B-436D-8C7E-13714A6B72CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D175798-1E6B-436D-8C7E-13714A6B72CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D175798-1E6B-436D-8C7E-13714A6B72CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33DC35C6-7F16-4E3B-96D2-A5B57369D45E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DC35C6-7F16-4E3B-96D2-A5B57369D45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DC35C6-7F16-4E3B-96D2-A5B57369D45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DC35C6-7F16-4E3B-96D2-A5B57369D45E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
