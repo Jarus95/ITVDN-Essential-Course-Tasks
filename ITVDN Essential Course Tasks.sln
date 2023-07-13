@@ -29,7 +29,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 Task2", "Abstract class I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5 Extra Task", "Array and Indexer\5 Extra Task\5 Extra Task.csproj", "{8948E122-CFFC-4A83-9EB7-16F77A66395C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5 Task1", "Array and Indexer\5 Task1\5 Task1.csproj", "{C7321402-1480-4DF2-A1FF-07AE72D8855D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5 Task1", "Array and Indexer\5 Task1\5 Task1.csproj", "{C7321402-1480-4DF2-A1FF-07AE72D8855D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6 Extra Task", "StaticClasses\6 Extra Task\6 Extra Task.csproj", "{A4FB52CC-765C-4C1B-85CC-968EE0672209}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{C7321402-1480-4DF2-A1FF-07AE72D8855D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7321402-1480-4DF2-A1FF-07AE72D8855D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7321402-1480-4DF2-A1FF-07AE72D8855D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4FB52CC-765C-4C1B-85CC-968EE0672209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4FB52CC-765C-4C1B-85CC-968EE0672209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4FB52CC-765C-4C1B-85CC-968EE0672209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4FB52CC-765C-4C1B-85CC-968EE0672209}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
